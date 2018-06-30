@@ -1,0 +1,13 @@
+.logo {
+    font-size: 100px;
+}
+
+#name {
+    width: 200px;
+   text-align: center;
+}
+
+.btn {
+    background: lightblue;
+    border-radius: 8px;
+}
